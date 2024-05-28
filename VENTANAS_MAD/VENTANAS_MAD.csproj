@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{08481596-D53C-48F3-A143-05AE36E9AAC0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>VENTANAS_MAD</RootNamespace>
+    <AssemblyName>VENTANAS_MAD</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1576.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1576.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1576.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1576.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1576.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CAJERO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CAJERO.Designer.cs">
+      <DependentUpon>CAJERO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONSULTA_VENTAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONSULTA_VENTAS.Designer.cs">
+      <DependentUpon>CONSULTA_VENTAS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEPARTAMENTO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEPARTAMENTO.Designer.cs">
+      <DependentUpon>DEPARTAMENTO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEVOLUCIONES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEVOLUCIONES.Designer.cs">
+      <DependentUpon>DEVOLUCIONES.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CAJEROS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CAJEROS.Designer.cs">
+      <DependentUpon>CAJEROS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INICIO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INICIO.Designer.cs">
+      <DependentUpon>INICIO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INICIO_ADMINISTRADOR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INICIO_ADMINISTRADOR.Designer.cs">
+      <DependentUpon>INICIO_ADMINISTRADOR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INICIO_CAJERO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INICIO_CAJERO.Designer.cs">
+      <DependentUpon>INICIO_CAJERO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MENU_ADMINISTRADOR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MENU_ADMINISTRADOR.Designer.cs">
+      <DependentUpon>MENU_ADMINISTRADOR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MENU_CAJERO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MENU_CAJERO.Designer.cs">
+      <DependentUpon>MENU_CAJERO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRODUCTO_ADMINISTRAR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRODUCTO_ADMINISTRAR.Designer.cs">
+      <DependentUpon>PRODUCTO_ADMINISTRAR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reportes\DsMAD.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DsMAD.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteCajero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteCajero.Designer.cs">
+      <DependentUpon>ReporteCajero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteCajeroVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteCajeroVenta.Designer.cs">
+      <DependentUpon>ReporteCajeroVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteInventario.Designer.cs">
+      <DependentUpon>ReporteInventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteVentaFecha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteVentaFecha.Designer.cs">
+      <DependentUpon>ReporteVentaFecha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteVentaTotal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteVentaTotal.Designer.cs">
+      <DependentUpon>ReporteVentaTotal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="VARIABLES.cs" />
+    <Compile Include="VENTAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTAS.Designer.cs">
+      <DependentUpon>VENTAS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VENTAS_IMPRIMIR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTAS_IMPRIMIR.Designer.cs">
+      <DependentUpon>VENTAS_IMPRIMIR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VISTA_CAJERO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISTA_CAJERO.Designer.cs">
+      <DependentUpon>VISTA_CAJERO.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CAJERO.resx">
+      <DependentUpon>CAJERO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CAJEROS.resx">
+      <DependentUpon>CAJEROS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONSULTA_VENTAS.resx">
+      <DependentUpon>CONSULTA_VENTAS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEPARTAMENTO.resx">
+      <DependentUpon>DEPARTAMENTO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEVOLUCIONES.resx">
+      <DependentUpon>DEVOLUCIONES.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="INICIO.resx">
+      <DependentUpon>INICIO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="INICIO_ADMINISTRADOR.resx">
+      <DependentUpon>INICIO_ADMINISTRADOR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="INICIO_CAJERO.resx">
+      <DependentUpon>INICIO_CAJERO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MENU_ADMINISTRADOR.resx">
+      <DependentUpon>MENU_ADMINISTRADOR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MENU_CAJERO.resx">
+      <DependentUpon>MENU_CAJERO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRODUCTO_ADMINISTRAR.resx">
+      <DependentUpon>PRODUCTO_ADMINISTRAR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Reportes\ReporteCajero.resx">
+      <DependentUpon>ReporteCajero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteCajeroVenta.resx">
+      <DependentUpon>ReporteCajeroVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteInventario.resx">
+      <DependentUpon>ReporteInventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteVentaFecha.resx">
+      <DependentUpon>ReporteVentaFecha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteVentaTotal.resx">
+      <DependentUpon>ReporteVentaTotal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\RptCajero.rdlc" />
+    <EmbeddedResource Include="Reportes\RptInventario.rdlc" />
+    <EmbeddedResource Include="Reportes\RptVentaFecha.rdlc" />
+    <EmbeddedResource Include="Reportes\RptVentas.rdlc" />
+    <EmbeddedResource Include="Reportes\RptVentaTotal.rdlc" />
+    <EmbeddedResource Include="VENTAS.resx">
+      <DependentUpon>VENTAS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTAS_IMPRIMIR.resx">
+      <DependentUpon>VENTAS_IMPRIMIR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISTA_CAJERO.resx">
+      <DependentUpon>VISTA_CAJERO.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Reportes\DsMAD.xsc">
+      <DependentUpon>DsMAD.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DsMAD.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DsMAD.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DsMAD.xss">
+      <DependentUpon>DsMAD.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LOGICA_MAD\LOGICA_MAD.csproj">
+      <Project>{50bf7319-2e68-4d42-bc9e-bb860bc6e17b}</Project>
+      <Name>LOGICA_MAD</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
