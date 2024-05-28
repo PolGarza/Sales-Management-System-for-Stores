@@ -1,0 +1,63 @@
+C:\Users\Home-Pc\source\repos\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\DATOS_MAD.dll
+C:\Users\Home-Pc\source\repos\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\DATOS_MAD.pdb
+C:\Users\Home-Pc\source\repos\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\ENTIDADES_MAD.dll
+C:\Users\Home-Pc\source\repos\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\ENTIDADES_MAD.pdb
+C:\Users\Home-Pc\source\repos\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.csprojAssemblyReference.cache
+C:\Users\Home-Pc\source\repos\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.csproj.CoreCompileInputs.cache
+C:\Users\Home-Pc\source\repos\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.csproj.CopyComplete
+C:\Users\Home-Pc\source\repos\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.dll
+C:\Users\Home-Pc\source\repos\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.pdb
+C:\Users\abrah\Desktop\PRUEBA_CAJEROS_ADMIN\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\DATOS_MAD.dll
+C:\Users\abrah\Desktop\PRUEBA_CAJEROS_ADMIN\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\DATOS_MAD.pdb
+C:\Users\abrah\Desktop\PRUEBA_CAJEROS_ADMIN\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\ENTIDADES_MAD.dll
+C:\Users\abrah\Desktop\PRUEBA_CAJEROS_ADMIN\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\ENTIDADES_MAD.pdb
+C:\Users\abrah\Desktop\PRUEBA_CAJEROS_ADMIN\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.csprojAssemblyReference.cache
+C:\Users\abrah\Desktop\PRUEBA_CAJEROS_ADMIN\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.csproj.CoreCompileInputs.cache
+C:\Users\abrah\Desktop\PRUEBA_CAJEROS_ADMIN\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.csproj.CopyComplete
+C:\Users\abrah\Desktop\PRUEBA_CAJEROS_ADMIN\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.dll
+C:\Users\abrah\Desktop\PRUEBA_CAJEROS_ADMIN\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.pdb
+E:\ESCUELA\SEMESTRE 2023\MAD\trigger_fecha\PRUEBA_CAJEROS_ADMIN (1)\PRUEBA_CAJEROS_ADMIN\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\DATOS_MAD.dll
+E:\ESCUELA\SEMESTRE 2023\MAD\trigger_fecha\PRUEBA_CAJEROS_ADMIN (1)\PRUEBA_CAJEROS_ADMIN\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\DATOS_MAD.pdb
+E:\ESCUELA\SEMESTRE 2023\MAD\trigger_fecha\PRUEBA_CAJEROS_ADMIN (1)\PRUEBA_CAJEROS_ADMIN\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\ENTIDADES_MAD.dll
+E:\ESCUELA\SEMESTRE 2023\MAD\trigger_fecha\PRUEBA_CAJEROS_ADMIN (1)\PRUEBA_CAJEROS_ADMIN\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\ENTIDADES_MAD.pdb
+E:\ESCUELA\SEMESTRE 2023\MAD\trigger_fecha\PRUEBA_CAJEROS_ADMIN (1)\PRUEBA_CAJEROS_ADMIN\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.csprojAssemblyReference.cache
+E:\ESCUELA\SEMESTRE 2023\MAD\trigger_fecha\PRUEBA_CAJEROS_ADMIN (1)\PRUEBA_CAJEROS_ADMIN\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.csproj.CoreCompileInputs.cache
+E:\ESCUELA\SEMESTRE 2023\MAD\trigger_fecha\PRUEBA_CAJEROS_ADMIN (1)\PRUEBA_CAJEROS_ADMIN\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.csproj.CopyComplete
+E:\ESCUELA\SEMESTRE 2023\MAD\trigger_fecha\PRUEBA_CAJEROS_ADMIN (1)\PRUEBA_CAJEROS_ADMIN\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.dll
+E:\ESCUELA\SEMESTRE 2023\MAD\trigger_fecha\PRUEBA_CAJEROS_ADMIN (1)\PRUEBA_CAJEROS_ADMIN\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.pdb
+E:\ESCUELA\SEMESTRE 2023\MAD\VENTAS\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\DATOS_MAD.dll
+E:\ESCUELA\SEMESTRE 2023\MAD\VENTAS\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\DATOS_MAD.pdb
+E:\ESCUELA\SEMESTRE 2023\MAD\VENTAS\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\ENTIDADES_MAD.dll
+E:\ESCUELA\SEMESTRE 2023\MAD\VENTAS\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\ENTIDADES_MAD.pdb
+E:\ESCUELA\SEMESTRE 2023\MAD\VENTAS\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.csprojAssemblyReference.cache
+E:\ESCUELA\SEMESTRE 2023\MAD\VENTAS\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.csproj.CoreCompileInputs.cache
+E:\ESCUELA\SEMESTRE 2023\MAD\VENTAS\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.csproj.CopyComplete
+E:\ESCUELA\SEMESTRE 2023\MAD\VENTAS\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.dll
+E:\ESCUELA\SEMESTRE 2023\MAD\VENTAS\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.pdb
+C:\Users\abrah\Desktop\Proyecto_MAD\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\DATOS_MAD.dll
+C:\Users\abrah\Desktop\Proyecto_MAD\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\DATOS_MAD.pdb
+C:\Users\abrah\Desktop\Proyecto_MAD\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\ENTIDADES_MAD.dll
+C:\Users\abrah\Desktop\Proyecto_MAD\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\ENTIDADES_MAD.pdb
+C:\Users\abrah\Desktop\Proyecto_MAD\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.csprojAssemblyReference.cache
+C:\Users\abrah\Desktop\Proyecto_MAD\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.csproj.CoreCompileInputs.cache
+C:\Users\abrah\Desktop\Proyecto_MAD\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.csproj.CopyComplete
+C:\Users\abrah\Desktop\Proyecto_MAD\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.dll
+C:\Users\abrah\Desktop\Proyecto_MAD\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.pdb
+E:\ya casi mad\Proyecto_MAD\Proyecto_MAD\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\DATOS_MAD.dll
+E:\ya casi mad\Proyecto_MAD\Proyecto_MAD\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\DATOS_MAD.pdb
+E:\ya casi mad\Proyecto_MAD\Proyecto_MAD\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\ENTIDADES_MAD.dll
+E:\ya casi mad\Proyecto_MAD\Proyecto_MAD\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\ENTIDADES_MAD.pdb
+E:\ya casi mad\Proyecto_MAD\Proyecto_MAD\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.csprojAssemblyReference.cache
+E:\ya casi mad\Proyecto_MAD\Proyecto_MAD\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.csproj.CoreCompileInputs.cache
+E:\ya casi mad\Proyecto_MAD\Proyecto_MAD\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.csproj.CopyComplete
+E:\ya casi mad\Proyecto_MAD\Proyecto_MAD\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.dll
+E:\ya casi mad\Proyecto_MAD\Proyecto_MAD\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.pdb
+C:\Users\abrah\Desktop\Proyecto_DB_MAD_4\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\DATOS_MAD.dll
+C:\Users\abrah\Desktop\Proyecto_DB_MAD_4\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\DATOS_MAD.pdb
+C:\Users\abrah\Desktop\Proyecto_DB_MAD_4\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\ENTIDADES_MAD.dll
+C:\Users\abrah\Desktop\Proyecto_DB_MAD_4\MAD_PROYECTO_04\DATOS_MAD\bin\Debug\ENTIDADES_MAD.pdb
+C:\Users\abrah\Desktop\Proyecto_DB_MAD_4\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.csprojAssemblyReference.cache
+C:\Users\abrah\Desktop\Proyecto_DB_MAD_4\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.csproj.CoreCompileInputs.cache
+C:\Users\abrah\Desktop\Proyecto_DB_MAD_4\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.csproj.CopyComplete
+C:\Users\abrah\Desktop\Proyecto_DB_MAD_4\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.dll
+C:\Users\abrah\Desktop\Proyecto_DB_MAD_4\MAD_PROYECTO_04\DATOS_MAD\obj\Debug\DATOS_MAD.pdb
